@@ -1,7 +1,9 @@
 <script setup>
 
 const theme = useTheme()
-
+useHead({
+  title: 'Favourite Meals'
+})
 </script>
 
 <template>
