@@ -41,7 +41,7 @@ const handleTheme = () => {
                             theme ? 'text-white' : 'text-slate-900'
                         ]"
                     >
-                        NextMeal
+                        NuxtMeal
                     </span>
                 </NuxtLink>
                 
